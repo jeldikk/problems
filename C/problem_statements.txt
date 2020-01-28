@@ -1,0 +1,67 @@
+problem 1:
+-----------
+	given an integer(N) and a prime number(p), find the highest power of p in N! ( N factorial )
+
+	hint: use concepts from number theory
+
+
+
+problem 2:
+-----------
+	given integer coefficients of a quadratic equation (a,b,c), find the roots of the quadratic equation.
+
+	hint: use concepts like, given coefficients of a quadratic equation, find the roots of the equation.
+
+
+
+problem 3:
+-----------
+
+	Given the name of a person, reply the person displaying modified form of his name.
+
+	modification to be done: shift each letter of the name by two places 
+
+	example testcase :
+	------------------
+	input: kamal
+	output: mcocn
+
+	input: uvwxyz
+	output: wxyzab
+
+	hint: increase the ascii value of each letter to shift the character.
+
+
+
+
+problem 4:
+-----------
+	Given an integer n call it as index and an integer x call it as base, calculate the value of a polynomial x^n + x^n-1 + x^n-2 + x^n-3 + ... + x^1 + 1.
+
+	hint: write a function taking base and index as argument to calculate powers. Then call this function in the loop.
+
+
+
+
+problem 5:
+-----------
+	write a code for converting spherical co-ordinates( r, theta, phi) to cartesian co-rodinates ( x, y, z)  and also for converting cartesian co-ordinates to spherical co-ordinates
+
+	help: 
+		x = r*sin(theta)*cos(phi)
+		y = r*sin(theta)*sin(phi)
+		z = r*cos(theta)
+
+	similarly given x,y,z. calculate r, theta, phi.
+
+
+
+problem 6:
+-----------
+
+
+	
+
+	
+
+ 
