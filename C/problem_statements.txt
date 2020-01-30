@@ -1,8 +1,32 @@
 problem 1:
 -----------
-	given an integer(N) and a prime number(p), find the highest power of p in N! ( N factorial )
+	simulate basic IVRS ( interactive voice response system ) to better understand the control flow of code execution.
 
-	hint: use concepts from number theory
+	to be done:
+	------------
+	please choose language:
+	1.) english
+	2.) telugu
+	3.) hindi
+	4.) tamil
+
+	please choose gender:
+	1.) male
+	2.) female
+
+	please choose region:
+	1.) Coastal region
+	2.) Rayalaseema region
+	3.) Telangana region
+
+	please chose location:
+	1.) location1
+	2.) location2
+	3.) location3
+
+	according user choses the options provided, finally you need to print the options summary on console like
+
+	output : Hello, You are a male from location1 of Coastal region
 
 
 
@@ -11,10 +35,27 @@ problem 2:
 	given integer coefficients of a quadratic equation (a,b,c), find the roots of the quadratic equation.
 
 	hint: use concepts like, given coefficients of a quadratic equation, find the roots of the equation.
-
+				
+				use math library to use sqrt function. surf internet on how to include and use mathematical functions
 
 
 problem 3:
+-----------
+	Given an integer n call it as index and an integer x call it as base, calculate the value of a polynomial x^n + x^n-1 + x^n-2 + x^n-3 + ... + x^1 + 1.
+
+	hint: write a function taking base and index as argument to calculate powers. Then call this function in the loop.
+
+
+problem 4:
+-----------
+	given an integer(N) and a prime number(p), find the highest power of p in N! ( N factorial )
+
+	hint: use concepts from number theory 
+				largest power = N/p + N/(p^2) + N/(p^3) + .... 
+
+
+
+problem 5:
 -----------
 
 	Given the name of a person, reply the person displaying modified form of his name.
@@ -32,18 +73,7 @@ problem 3:
 	hint: increase the ascii value of each letter to shift the character.
 
 
-
-
-problem 4:
------------
-	Given an integer n call it as index and an integer x call it as base, calculate the value of a polynomial x^n + x^n-1 + x^n-2 + x^n-3 + ... + x^1 + 1.
-
-	hint: write a function taking base and index as argument to calculate powers. Then call this function in the loop.
-
-
-
-
-problem 5:
+problem 6:
 -----------
 	write a code for converting spherical co-ordinates( r, theta, phi) to cartesian co-rodinates ( x, y, z)  and also for converting cartesian co-ordinates to spherical co-ordinates
 
@@ -56,10 +86,41 @@ problem 5:
 
 
 
-problem 6:
+problem 7:
 -----------
 
+	Ask user to enter some large integer of length <9 numerals and write code printing the sum of digits of the entered number
 
+	example:
+
+	input: 23456
+	output: 20
+
+	input: 340000
+	output: 7
+
+	hint: first extract the digits by using division and modulo operator then add those digits
+
+
+problem 8:
+-----------
+	write a code to implement a pyramid pattern, ask user to enter number of rows in the pattern
+	
+	input: 6
+
+	output:
+						*
+					 ***
+          *****
+         *******
+        *********
+       ***********
+
+	hint: observe, the number of stars in nth row are in (2*n + 1) number.
+
+
+problem 9:
+-----------
 	
 
 	
