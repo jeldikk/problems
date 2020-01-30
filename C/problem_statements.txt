@@ -24,9 +24,11 @@ problem 1:
 	2.) location2
 	3.) location3
 
-	according user choses the options provided, finally you need to print the options summary on console like
+	according to the options user choses, finally you need to print the options summary on console like
 
-	output : Hello, You are a male from location1 of Coastal region
+	if user choses 1, 1, 1, 2
+
+	output : Hello, You are a male from location2 of Coastal region and you speak telugu
 
 
 
@@ -36,7 +38,7 @@ problem 2:
 
 	hint: use concepts like, given coefficients of a quadratic equation, find the roots of the equation.
 				
-				use math library to use sqrt function. surf internet on how to include and use mathematical functions
+        use math library to use sqrt function. surf internet on how to include and use mathematical functions
 
 
 problem 3:
@@ -51,7 +53,7 @@ problem 4:
 	given an integer(N) and a prime number(p), find the highest power of p in N! ( N factorial )
 
 	hint: use concepts from number theory 
-				largest power = N/p + N/(p^2) + N/(p^3) + .... 
+        largest power = N/p + N/(p^2) + N/(p^3) + .... 
 
 
 
@@ -109,8 +111,8 @@ problem 8:
 	input: 6
 
 	output:
-						*
-					 ***
+            *
+           ***
           *****
          *******
         *********
