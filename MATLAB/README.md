@@ -1,11 +1,13 @@
 ### Problems
 
 #### Task 1:
+---
 
 Get used to use documentation provided by Matlab. know different commands on how to extract help on specific topic
 
 
 #### Task 2:
+---
 
 Get your hands dirty with matlab statements by trying the constructs that are useful for solving problems.
 
@@ -21,6 +23,7 @@ Here is the cheatsheet that you may try:
 ```
 
 #### Task 3:
+---
 
 Get to know how to construct a vector using colon method
 
@@ -38,6 +41,7 @@ _come with some discussion when should I use linspace and when should I use colo
 
 
 #### Task 4:
+---
 
 Get proper knowledge about arithematic operators ( +, - , / , \*), trignometric function, exponential functions, logarithmic functions available in Matlab.
 
@@ -46,6 +50,7 @@ perform these operations on
 2. matrix and matrix element wise
 
 #### Problem 1:
+---
 
 Generate a vector of random numbers values ranging from 0 to 100. build the vector by using rand() function available in-built in Matlab.
 
@@ -53,6 +58,7 @@ use this vector generation method in solving the problems given below.
 
 
 #### Problem 2:
+---
 
 Define a vector of length N. write a code for finding the sum and mean, variance, standard deviation of values in the vector using loops.
 
@@ -60,6 +66,7 @@ Define a vector of length N. write a code for finding the sum and mean, variance
 surf online for formulaes regarding mean, variance,  standard deviation of a set of values
 
 #### Problem 3:
+---
 
 Define the following vectors for a test case
 
@@ -75,6 +82,7 @@ with the given information calculate the distance travelled by the body for diff
 
 
 #### Problem 4:
+---
 
 Define a signal with sampling rate of 1 kilosamples/second of a given frequency **f**. later introduce some phase shift in the signal, then plot two signals and give some interpretation of the plot when we meet.
 
@@ -82,6 +90,7 @@ Define a signal with sampling rate of 1 kilosamples/second of a given frequency 
 
 
 #### Problem 5:
+---
 
 Learn about spherical co-ordinates and cartesian co-ordinates and its significance. write functions for converting spherical to cartesian and cartesian to spherical co-ordinates.
 
@@ -100,6 +109,7 @@ _given r, theta, phi to find x, y, z follow these_
 **hint**: given x, y, z derive formulae for finding r, theta, phi.
 
 #### Problem 6:
+---
 
 >Thresholding a matrix is a method in which each element is compared to a threshold value, if the element is less than threshold, the element is replaced with threshold value else the element value is kept intact.
 
@@ -119,6 +129,7 @@ result = 5 5 5
 ```
 
 #### Problem 7:
+---
 
 given two vectors of equal length ( generate using rand() ). write a code for finding the inner-product of these two vectors using loops.
 
